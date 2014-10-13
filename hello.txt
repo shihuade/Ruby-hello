@@ -1,3 +1,4 @@
 hello in vm linux for ruby interact with github.com
 
 
+home network under unbuntu
